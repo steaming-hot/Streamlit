@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+datetime
+statsmodels
+seaborn
+pickle
